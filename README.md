@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Albert! </h1> 
+
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+- <b>Exploring Sales Data in sql
+- <b>Full Stack Web App ( Azure data studio)</b>
+  
+<h2> Certification
+
+- <b>Google Data Analytics certificate</b>
+  
+<h2>📺 Tableau Visualization projects</h2>
+
+- [airbnb projects](https://public.tableau.com/app/profile/albert.asamoah/viz/airbnblearningprojects/Dashboard1)
+- [Sales data exploration Dash 1](https://public.tableau.com/app/profile/albert.asamoah/viz/salesdashboard1_16717454095080/salesDashboard1)
+- [Sales Data exploration Dash 2](https://public.tableau.com/app/profile/albert.asamoah/viz/salesdash2_16717455280350/salesdashboard2)
+
+
+
 
 <!--
-**Asamoah94/Asamoah94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
