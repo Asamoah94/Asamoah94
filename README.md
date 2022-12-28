@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Exploring Sales Data in sql (https://github.com/Asamoah94/sql-data-exploration)
-- <b>Full Stack Web App ( Azure data studio)</b>
+-  [Exploring Sales Data in sql](https://github.com/Asamoah94/sql-data-exploration)
+- Full Stack Web App ( Azure data studio)</b>
   
 <h2> Certification
 
